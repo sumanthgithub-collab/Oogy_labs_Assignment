@@ -1,0 +1,36 @@
+{
+  "episode_id": "ep-85-gibson-biddle",
+  "episode_number": 85,
+  "title": "Gibson Biddle on Product Strategy, the DHM Model, Brand Positioning, and Netflix's Growth Story",
+  "guest": "Gibson Biddle",
+  "guest_title": "Former VP of Product at Netflix and Chief Product Officer at Chegg",
+  "date": "2023-01-20",
+  "topics": ["DHM Model", "Product Strategy", "Netflix", "Delight Hard to Copy Margin", "Metrics"],
+  "segments": [
+    {
+      "timestamp": "00:02:50",
+      "speaker": "Lenny Rachitsky",
+      "text": "Gib, you led product at Netflix during its crucial growth years. You developed the DHM framework for product strategy. Can you walk us through what DHM stands for and how PMs can use it?"
+    },
+    {
+      "timestamp": "00:03:30",
+      "speaker": "Gibson Biddle",
+      "text": "DHM stands for Delight customers, Hard to copy advantage, and Margin-enhancing business models. A great product strategy must answer three simple questions: 1) How will your product Delight customers today and in the future? (e.g. Netflix streaming instantly with zero buffering). 2) How will you build Hard-to-copy advantages so competitors can't easily displace you? (e.g., brand, network effects, economies of scale, unique technology, proprietary data). 3) How will you create Margin-enhancing features so you build a profitable business? (e.g., Netflix transitioning from DVD shipping to streaming subscriptions, or introducing ad-supported tiers)."
+    },
+    {
+      "timestamp": "00:08:15",
+      "speaker": "Gibson Biddle",
+      "text": "At Netflix, we evaluated every strategic initiative against these three pillars. For instance, personalized movie recommendations delighted users by helping them find great shows, created a hard-to-copy data moat, and enhanced margin by guiding members to cost-effective content."
+    },
+    {
+      "timestamp": "00:12:40",
+      "speaker": "Lenny Rachitsky",
+      "text": "What advice do you give to product managers trying to define strategic metrics?"
+    },
+    {
+      "timestamp": "00:13:10",
+      "speaker": "Gibson Biddle",
+      "text": "Define one high-level North Star metric that measures customer delight, and pair it with proxy metrics that drive that North Star. At Netflix, our high-level metric was retention rate. But retention is a lagging indicator. So we used proxy metrics like percentage of members who watched 30+ hours of content in their first month."
+    }
+  ]
+}

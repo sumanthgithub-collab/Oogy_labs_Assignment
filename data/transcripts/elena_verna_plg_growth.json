@@ -1,0 +1,36 @@
+{
+  "episode_id": "ep-72-elena-verna",
+  "episode_number": 72,
+  "title": "Elena Verna on Product-Led Growth, B2B Growth Loops, Freemyth vs Freemium, and Pricing Strategy",
+  "guest": "Elena Verna",
+  "guest_title": "Head of Growth at Amplitude, former Growth Advisor at Miro, Dropbox, SurveyMonkey",
+  "date": "2022-11-10",
+  "topics": ["Product-Led Growth", "PLG Loops", "Freemium vs Free Trial", "Virality", "B2B Expansion"],
+  "segments": [
+    {
+      "timestamp": "00:03:20",
+      "speaker": "Lenny Rachitsky",
+      "text": "Elena, you are one of the world's foremost experts on Product-Led Growth (PLG). How do you define PLG for companies transitioning from sales-led growth?"
+    },
+    {
+      "timestamp": "00:04:05",
+      "speaker": "Elena Verna",
+      "text": "Product-Led Growth isn't just a marketing tactic or self-serve checkout. PLG means your product is the primary driver of customer acquisition, retention, and expansion. In sales-led models, people talk to human sales reps before experiencing value. In PLG, users experience product value first, and monetization follows value realization."
+    },
+    {
+      "timestamp": "00:06:45",
+      "speaker": "Elena Verna",
+      "text": "There are three fundamental growth loops in PLG: 1) Acquisition Loop: How existing user activity naturally invites or attracts new users (e.g., Miro boards shared with external collaborators, Figma links, Typeform signatures). 2) Retention Loop: How product usage creates habit loops and compounding data value (e.g. stored notes in Notion or project boards in Linear). 3) Monetization Loop: How organic individual usage crosses paywall triggers or usage thresholds, converting individual power users into enterprise team contracts."
+    },
+    {
+      "timestamp": "00:11:15",
+      "speaker": "Lenny Rachitsky",
+      "text": "What is the biggest mistake companies make when choosing between Free Trial and Freemium?"
+    },
+    {
+      "timestamp": "00:11:50",
+      "speaker": "Elena Verna",
+      "text": "The biggest mistake is offering a 14-day Free Trial for a product with an activation period longer than 14 days! If your product takes 30 days for a team to establish a habit, a 14-day trial kicks users out right before they experience the aha-moment. Freemium works best when you can offer a perpetual free tier with feature gates or usage caps. Free trial works best when the time-to-value is very fast (minutes or hours) and urgency is needed."
+    }
+  ]
+}

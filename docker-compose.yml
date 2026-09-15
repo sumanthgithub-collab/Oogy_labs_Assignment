@@ -1,0 +1,53 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: lenny_db
+    restart: always
+    environment:
+      POSTGRES_DB: lenny_growth
+      POSTGRES_USER: lenny_user
+      POSTGRES_PASSWORD: lenny_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U lenny_user -d lenny_growth"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: lenny_backend
+    restart: always
+    environment:
+      - DATABASE_URL=postgresql://lenny_user:lenny_password@db:5432/lenny_growth
+      - LLM_PROVIDER=ollama
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - RELEVANCE_THRESHOLD=0.20
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: lenny_frontend
+    restart: always
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:

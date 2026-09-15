@@ -1,0 +1,26 @@
+{
+  "episode_id": "ep-90-brian-balfour",
+  "episode_number": 90,
+  "title": "Brian Balfour on the Four Growth Fits, Funnels vs. Loops, and Scaling Products Beyond $100M ARR",
+  "guest": "Brian Balfour",
+  "guest_title": "Founder & CEO of Reforge, former VP Growth at HubSpot",
+  "date": "2023-03-05",
+  "topics": ["Four Growth Fits", "Product Market Fit", "Growth Loops", "Reforge Frameworks", "Scaling"],
+  "segments": [
+    {
+      "timestamp": "00:03:10",
+      "speaker": "Lenny Rachitsky",
+      "text": "Brian, welcome! Reforge has transformed how product and growth leaders think. One of your foundational concepts is the Four Fits framework. Why isn't Product-Market Fit alone enough for a venture-scale company?"
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Brian Balfour",
+      "text": "Product-Market Fit is essential, but it is not sufficient. You don't build products in isolation; you build them within an ecosystem. You need four fits working in harmony: 1) Market-Product Fit: Validating that a real market problem exists and your product solves it. 2) Product-Channel Fit: Products are built for channels, channels are not built for products. For example, virality fits consumer social, SEO fits intent-driven search, sales fits enterprise. 3) Channel-Model Fit: Your ARPU (Average Revenue Per User) determines which channels you can afford. Low ARPU requires free viral or SEO channels; high ARPU supports direct enterprise sales reps. 4) Model-Market Fit: Your pricing model multiplied by market size must yield a venture-scale outcome."
+    },
+    {
+      "timestamp": "00:09:30",
+      "speaker": "Brian Balfour",
+      "text": "The key insight is that these four fits are co-dependent and constantly shifting. If you change your product features or pricing model, you inevitably break your channel fit or market fit. Scaling requires constantly recalibrating all four fits together."
+    }
+  ]
+}

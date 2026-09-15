@@ -1,0 +1,31 @@
+{
+  "episode_id": "ep-98-casey-winters",
+  "episode_number": 98,
+  "title": "Casey Winters on Growth Loops, Retention Engine Design, and Scaling Pinterest & Eventbrite",
+  "guest": "Casey Winters",
+  "guest_title": "Former CPO at Eventbrite, Growth Lead at Pinterest and Grubhub",
+  "date": "2023-05-18",
+  "topics": ["Growth Loops", "Retention", "Seeding Supply", "Network Effects", "Funnels vs Loops"],
+  "segments": [
+    {
+      "timestamp": "00:03:00",
+      "speaker": "Lenny Rachitsky",
+      "text": "Casey, you helped build growth engines at Grubhub, Pinterest, and Eventbrite. You advocate moving from traditional acquisition funnels to growth loops. What is the fundamental difference?"
+    },
+    {
+      "timestamp": "00:03:45",
+      "speaker": "Casey Winters",
+      "text": "Funnels are linear: you pour traffic in at the top (ads, PR, blog posts), some convert, and the rest drop out at the bottom. To get more users next month, you have to pour more money into the top. Loops, on the other hand, are closed systems where an input produces an output, and that output is reinvested back into the system to generate more input."
+    },
+    {
+      "timestamp": "00:06:20",
+      "speaker": "Casey Winters",
+      "text": "For example, at Pinterest, a user creates a pin or saves a board (Input -> Action -> Output). That new content gets indexed by Google Search. Prospective users search for ideas, land on the pin, sign up, and create their own pins. The output of one user creates the input for the next user. That's a sustainable content-loop."
+    },
+    {
+      "timestamp": "00:10:15",
+      "speaker": "Casey Winters",
+      "text": "Without strong retention, growth loops break down. Retention is the foundation of growth. If your 90-day retention curve doesn't flatten out, no growth loop in the world can save your company from leaking users."
+    }
+  ]
+}

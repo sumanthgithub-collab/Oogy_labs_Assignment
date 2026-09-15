@@ -1,0 +1,26 @@
+{
+  "episode_id": "ep-104-marty-cagan",
+  "episode_number": 104,
+  "title": "Marty Cagan on Empowered Product Teams, Product Risk, and Moving Away from Feature Factories",
+  "guest": "Marty Cagan",
+  "guest_title": "Partner at Silicon Valley Product Group (SVPG), Author of INSPIRED and EMPOWERED",
+  "date": "2023-07-22",
+  "topics": ["Empowered Product Teams", "Product Risk", "Feature Factory", "Discovery vs Delivery", "Leadership"],
+  "segments": [
+    {
+      "timestamp": "00:02:40",
+      "speaker": "Lenny Rachitsky",
+      "text": "Marty, welcome back! Your book EMPOWERED addresses why so many tech companies operate as 'feature factories'. What is the distinction between feature teams and empowered product teams?"
+    },
+    {
+      "timestamp": "00:03:30",
+      "speaker": "Marty Cagan",
+      "text": "In a feature team or 'feature factory', management hands the product team a roadmap of features to build. The team acts as mercenaries just implementing someone else's solution. In an empowered product team, management gives the team problems to solve and business outcomes to achieve. The team is given the autonomy and responsibility to discover the best solution."
+    },
+    {
+      "timestamp": "00:07:15",
+      "speaker": "Marty Cagan",
+      "text": "Empowered teams tackle four core product risks upfront in discovery before writing production code: 1) Value Risk: Will the customer buy this or choose to use it? 2) Usability Risk: Can the user figure out how to use it? 3) Feasibility Risk: Can our engineers build it with current technology and time? 4) Viability Risk: Does this solution work for our business (legal, financial, compliance, sales)? Product discovery is all about quickly and cheaply testing these four risks."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "episode_id": "ep-64-shreyas-doshi",
+  "episode_number": 64,
+  "title": "Shreyas Doshi on High-Leverage Product Management, the LNO Framework, and Managing Chaos",
+  "guest": "Shreyas Doshi",
+  "guest_title": "Former Product Leader at Stripe, Twitter, Google, and Yahoo",
+  "date": "2022-09-15",
+  "topics": ["LNO Framework", "Task Effectiveness", "High Leverage", "Product Management Leadership", "Career Advice"],
+  "segments": [
+    {
+      "timestamp": "00:04:15",
+      "speaker": "Lenny Rachitsky",
+      "text": "Welcome Shreyas! People constantly quote your tweets and frameworks. One of the most famous is your LNO framework for time and task management. Can you explain what the LNO framework is and why product managers need it?"
+    },
+    {
+      "timestamp": "00:05:02",
+      "speaker": "Shreyas Doshi",
+      "text": "Thanks Lenny. The LNO framework stands for Leverage, Neutral, and Overhead. Most PMs make the mistake of treating all tasks as equal. They try to do 100% excellence on every single task on their to-do list. That leads to burnout and mediocre impact."
+    },
+    {
+      "timestamp": "00:06:10",
+      "speaker": "Shreyas Doshi",
+      "text": "In the LNO framework, tasks are categorized into three buckets: 1) L Tasks (Leverage): High-leverage tasks where doing a 10x job creates 10x value. Example: product strategy, core architecture decisions, key hire interviews. You should aim for perfection here. 2) N Tasks (Neutral): Medium leverage tasks where doing a good, solid job is enough. Example: weekly status reports, standard roadmap updates. Doing 10x work here is a waste of time. 3) O Tasks (Overhead): Low leverage tasks that just need to get done. Example: submitting expense reports, scheduling meetings, filling out routine admin forms. Aim to do these with minimum viable effort, or delegate/automate them."
+    },
+    {
+      "timestamp": "00:08:45",
+      "speaker": "Lenny Rachitsky",
+      "text": "That's super tactical. How should a PM actually apply LNO on a daily basis?"
+    },
+    {
+      "timestamp": "00:09:12",
+      "speaker": "Shreyas Doshi",
+      "text": "Every morning, tag your to-do list with L, N, or O. Spend 60-70% of your focused energy on your L tasks. For N tasks, satisfy the requirement quickly. For O tasks, batch them at the end of the day when your cognitive energy is low. If you try to give 100% to Overhead tasks, you won't have the creative energy left for Leverage tasks."
+    },
+    {
+      "timestamp": "00:12:30",
+      "speaker": "Shreyas Doshi",
+      "text": "Another concept I emphasize is the difference between execution and leverage. Execution is doing things right; leverage is doing the right things that compound over time. Great product leaders spend time building systems, setting clear principles, and coaching their team rather than micro-managing every spec."
+    }
+  ]
+}
